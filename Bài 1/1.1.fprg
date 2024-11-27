@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="1.1"/>
+        <attribute name="authors" value="Admin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-25 02:50:57 CH"/>
+        <attribute name="created" value="QWRtaW47TEFQVE9QLURMRkVSUkE4OzIwMjQtMDktMjU7MDI6NDA6MzIgQ0g7MjgyNw=="/>
+        <attribute name="edited" value="QWRtaW47TEFQVE9QLURMRkVSUkE4OzIwMjQtMDktMjU7MDI6NTA6NTcgQ0g7MTsyOTQz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n" type="Integer" array="False" size=""/>
+            <output expression="&quot;cho gia tri cua n&quot;" newline="True"/>
+            <input variable="n"/>
+            <output expression="&quot;ket qua cua n la &quot; &amp;n" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
